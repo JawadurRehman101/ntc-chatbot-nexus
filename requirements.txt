@@ -7,3 +7,5 @@ langchain-core
 langgraph
 langchain-huggingface
 huggingface-hub
+openpyxl
+fpdf2
